@@ -5,23 +5,31 @@
     git config --global user.email "your_email"
     git config --list
 ```
-In details...
-www.naver.com
+    In details : [블로그 주소]
 
-### 2. Abstract
+### 2. Code Upload
 ```
     git init
     git branch -m main
     git add "file_name" or git add .
     git status
-    git restore --staged "individual_file"
     git commit -m "first commit"
     git remote add origin git@github.com:DoctorVitus/How-to-use-Github.git
+    git remote -v
     git push origin main
 ```
+    In details : [블로그 주소]
+    
+### 3. Update
+```
+    git add .
+    git commit -m "second commit"
+    git push origin main
+```
+    In details : [블로그 주소]
+    
+### Possible Errors
+```
+    ! [rejected] master -> master (fetch first) error: failed to push some refs to
+```
 
-### 2. Details
-
-
-### * To prevent __pycache__ folder from being pushed
-* create .gitinit file where .git folder is located
