@@ -1,10 +1,10 @@
 ## ❓ How to use GitHub
 ### 1. Git bash
-'''
+```
     git config --global user.name "your_name"
     git config --global user.email "your_email"
     git config --list
-'''
+```
 ### 2. Abstract
 ```
     git init
