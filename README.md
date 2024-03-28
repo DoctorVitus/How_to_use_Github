@@ -1,10 +1,15 @@
 ## ❓ How to use GitHub
-### 1. Abstract
+### 1. Git bash
+'''
+    git config --global user.name "your_name"
+    git config --global user.email "your_email"
+    git config --list
+'''
+### 2. Abstract
 ```
-    echo "# folder_name" >> README.md
     git init
     git branch -m main
-    git add "file_name"
+    git add "file_name" or git add .
     git status
     git restore --staged "individual_file"
     git commit -m "first commit"
