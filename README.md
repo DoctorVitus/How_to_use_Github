@@ -5,6 +5,9 @@
     git config --global user.email "your_email"
     git config --list
 ```
+In details...
+www.naver.com
+
 ### 2. Abstract
 ```
     git init
