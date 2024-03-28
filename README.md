@@ -30,6 +30,7 @@
     
 ### Possible Errors
 ```
-    ! [rejected] master -> master (fetch first) error: failed to push some refs to
+    Error : ! [rejected] master -> master (fetch first) error: failed to push some refs to
+    Solution : git pull --rebase origin main
 ```
 
