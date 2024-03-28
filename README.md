@@ -1,5 +1,5 @@
 ## ❓ How to use GitHub
-### (1) Move to your local folder in terminal
+### 1. Abstract
 ```
     echo "# folder_name" >> README.md
     git init
@@ -8,9 +8,12 @@
     git status
     git restore --staged "individual_file"
     git commit -m "first commit"
-    git remote add origin git@github.com:RECL-hjy/RECL_2024_project_MONA.git
+    git remote add origin git@github.com:DoctorVitus/How-to-use-Github.git
     git push origin main
 ```
+
+### 2. Details
+
 <br>
 
 ### * To prevent __pycache__ folder from being pushed
