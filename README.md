@@ -14,7 +14,6 @@
 
 ### 2. Details
 
-<br>
 
 ### * To prevent __pycache__ folder from being pushed
 * create .gitinit file where .git folder is located
