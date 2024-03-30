@@ -1,13 +1,14 @@
 ## ❓ How to use GitHub
 ### 1. Git bash
-```
 Set User's name
+```
     git config --global user.name "your_name"
+```
 Set User's E-mail (Use your gothub email!)
     git config --global user.email "your_email"
 Check your name & e-mail address
     git config --list
-```
+
     In details : [블로그 주소]
 
 ### 2. Code Upload
