@@ -12,9 +12,6 @@ Check your name & e-mail address
 ```
     git config --list
 ```
-```
-In details : [블로그 주소]
-```
 
 ### 2. Code Upload
 ```
