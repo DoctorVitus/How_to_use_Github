@@ -38,7 +38,7 @@ Connect github repository to my local project
 ```
     git remote add origin git@github.com:DoctorVitus/How-to-use-Github.git
 ```
-Check if it is well connected
+Check if it is well connected (Optional)
 ```
     git remote -v
 ```
@@ -48,7 +48,7 @@ Upload your code file to Github
 ```
 In details
 ```
-[블로그 주소]
+    [블로그 주소]
 ```
     
 ### 3. Update
