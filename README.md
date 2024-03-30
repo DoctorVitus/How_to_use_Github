@@ -14,19 +14,42 @@ Check your name & e-mail address
 ```
 
 ### 2. Code Upload
+Initialize your git
 ```
-Initialize
     git init
-Set default branch
+```
+Change from master to main branch
+```
     git branch -M main
+```
+Add your code file
+```
     git add "file_name" or git add .
+```
+Check status (Optional)
+```
     git status
+```
+Make a history
+```
     git commit -m "first commit"
+```
+Connect github repository to my local project
+```
     git remote add origin git@github.com:DoctorVitus/How-to-use-Github.git
+```
+Check if it is well connected
+```
     git remote -v
+```
+Upload your code file to Github
+```
     git push origin main
 ```
-    In details : [블로그 주소]
+In details
+```
+[블로그 주소]
+```
     
 ### 3. Update
 ```
