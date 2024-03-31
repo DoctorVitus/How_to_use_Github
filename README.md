@@ -4,7 +4,7 @@ Set User's name
 ```
     git config --global user.name "your_name"
 ```
-Set User's E-mail (Use your gothub email!)
+Set User's E-mail (Use your github email!)
 ```
     git config --global user.email "your_email"
 ```
