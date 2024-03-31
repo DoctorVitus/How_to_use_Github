@@ -52,13 +52,23 @@ In details
 ```
     
 ### 3. Update
+Update your code file
 ```
-    git add .
+    git add "file_name" or git add .
+```
+Make a additional history
+```
     git commit -m "second commit"
+```
+Update your code file to Github
+```
     git push origin main
 ```
-    In details : [블로그 주소]
-    
+In details
+```
+[블로그 주소]
+```
+ 
 ### Possible Errors
 ```
     Error : ! [rejected] master -> master (fetch first) error: failed to push some refs to
