@@ -66,7 +66,7 @@ Update your code file to Github
 ```
 In details
 ```
-[블로그 주소]
+    [블로그 주소]
 ```
  
 ### Possible Errors
