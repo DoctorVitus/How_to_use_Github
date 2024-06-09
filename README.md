@@ -48,7 +48,7 @@ Upload your code file to Github
 ```
 In details
 ```
-    [블로그 주소]
+    [https://ymechanics.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC]
 ```
     
 ### 3. Update
