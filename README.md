@@ -69,7 +69,7 @@ In details
     [블로그 주소]
 ```
  
-### Possible Errors
+### 4. Possible Errors
 ```
     Error : ! [rejected] master -> master (fetch first) error: failed to push some refs to
     Solution : git pull --rebase origin main
