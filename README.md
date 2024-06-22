@@ -1,4 +1,4 @@
-## ❓ How to use GitHub
+## How to use GitHub❓
 ### 1. Git bash
 Set User's name
 ```
@@ -66,7 +66,7 @@ Update your code file to Github
 ```
 In details
 ```
-    [블로그 주소]
+    https://ymechanics.tistory.com/entry/GitHub-%EC%BD%94%EB%93%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0
 ```
  
 ### 4. Possible Errors
